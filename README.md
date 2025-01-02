@@ -2,11 +2,11 @@
 Project Description:¶ This project aims to build a predictive model for house prices using a comprehensive dataset that includes various house features and attributes. 
  The key objectives of this analysis are to:
 
-Understand the relationship between different house features and their impact on prices.
-Provide actionable insights for stakeholders in the real estate market, including:
-Homebuyers
-Sellers
-Investors
+- Understand the relationship between different house features and their impact on prices.
+- Provide actionable insights for stakeholders in the real estate market, including:
+- Homebuyers
+- Sellers
+- Investors
 By examining the dataset, we aim to uncover patterns and trends that can help:
 
 Improve pricing strategies.
